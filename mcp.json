@@ -6,7 +6,7 @@
       "args": ["elasticsearch-mcp-server-es9"],
       "env": {
         "ELASTICSEARCH_HOSTS": "https://100.99.129.5:9200",
-        "ELASTICSEARCH_API_KEY": "aTA0bmQ2RUJySFN5aU8waXM1OVU6NEVtei1iMmJoQ1BwR0pkc01wMV9MUQ==",
+        "ELASTICSEARCH_API_KEY": "<API_KEY>",
         "DISABLE_HIGH_RISK_OPERATIONS": "true"
       },
       "enabled": true,
